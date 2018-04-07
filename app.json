@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "splash": {
+      "image": "./assets/icons/twittler-logo.png",
+      "backgroundColor": "#ffa700"
+    }
+  }
+}
